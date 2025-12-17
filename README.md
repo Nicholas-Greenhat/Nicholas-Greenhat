@@ -1,4 +1,4 @@
-Hi there, Im Nicholas Kibet-Greenhat.
+Hi there, I am Nicholas Kibet-Greenhat.
 
 
 # 📊 GitHub Stats:
